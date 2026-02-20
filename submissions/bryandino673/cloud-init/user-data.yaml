@@ -1,4 +1,6 @@
-#cloud-config
+---
+# yamllint disable rule:line-length
+# cloud-config
 
 users:
   - name: student
